@@ -1,0 +1,11 @@
+p {
+  font-family: Lato;
+}
+button {
+  float: right;
+}
+h4 {
+  color: blueviolet;
+  text-align: center;
+  margin-top: 4vh;
+}
